@@ -23,7 +23,45 @@ media:
     poluentes-22caba6d.jpg
   altText: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes.'
   caption: Capa da Postagem
-bottomSections: []
+bottomSections:
+  - type: FeatureHighlightSection
+    colors: colors-c
+    elementId: ''
+    backgroundSize: full
+    title: Time to leave your desk. Let’s go flying
+    subtitle: ''
+    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    actions:
+      - type: Button
+        label: Saiba Mais
+        showIcon: true
+        icon: arrowRight
+        style: secondary
+        url: /
+    backgroundImage:
+      type: ImageBlock
+      url: /images/hero-3.png
+      backgroundSize: cover
+      backgroundPosition: center
+      opacity: 100
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-72
+          - pl-4
+          - pr-4
+        justifyContent: flex-start
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 metaDescription: null
 socialImage: null
 author: content/data/team/person-ok5g22kli.json

@@ -22,6 +22,7 @@ media:
     /images/Conheça o Zeedz_ um jogo que consiste na redução mundial de
     poluentes-22caba6d.jpg
   altText: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes.'
+  caption: Capa da Postagem
 bottomSections: []
 metaDescription: null
 socialImage: null

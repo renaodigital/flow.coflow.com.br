@@ -28,12 +28,21 @@ metaDescription: null
 socialImage: null
 author: content/data/team/person-ok5g22kli.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Conheça o jogo Zeedz que se encontra em alpha para Android e iOS. A proposta deste é diminuir ou neutralizar a emissão de poluentes para que o mundo seja melhor preservado, apesar do trailer apenas ser encontrado em inglês, por se encontrar na fase de desenvolvimento, o público-alvo já foi encontrado e o próprio já foi estruturado, vendo a parte dos esboços, da exposição dos personagens que fazem parte, definição de conceitos e escrita do [whitepaper](https://www.zeedz.io/whitepaper).
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Com um conceito alinhado, uma wiki (enciclopédia) para que sejam expostos alguns termos, para que este tenha um bom suporte e com estatísticas que o time procura sempre manter atualizada.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+![](/images/Screenshot%202023-01-04%20191140-d0f6c8a0.png)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Na página de [marketplace](https://play.zeedz.io/marketplace) você pode ver quantos dólares já circularam em dólares em $FLOW ou em $USDC. o total de bloqueio da emissão de CO2 (gás carbônico), total de vendas e o pico de preço de venda comercial de algum objeto que compõe o ecossistema.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+A comunidade no Discord possui cerca de 7 de mil membros, na conta do Instagram são 4 mil seguidores acompanhando as atualizações do e o Twitter é sempre atualizado pela equipe com conteúdos enxutos e acessíveis para o público. Se você não for bilíngue, entre em contato comigo mandando uma mensagem pelo Discord que eu posso te dar suporte para que compreenda melhor o conteúdo do jogo. 
+
+Basta me adicionar pelo usuário renaodigital#2236
+
+Caso você tiver curiosidade em conhecer o conceito entre estatísticas de governança e  outros detalhes mais avançados. Recomendo que você acesse o [whitepaper](https://www.zeedz.io/whitepaper) e interaja com a comunidade para fazer com que essa ideia entre em processo de expansão, consequentemente resultando no sucesso do projeto.
+
+
+
+
+

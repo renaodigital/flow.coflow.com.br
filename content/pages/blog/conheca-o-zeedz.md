@@ -7,8 +7,9 @@ title: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes
 colors: colors-d
 date: '2022-04-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Conheça o jogo Zeedz que se encontra em alpha para Android e iOS. A proposta
+  deste é diminuir ou neutralizar a emissão de poluentes para que o mundo seja
+  melhor preservado. 
 featuredImage:
   type: ImageBlock
   url: >-

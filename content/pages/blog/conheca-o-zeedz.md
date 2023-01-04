@@ -18,7 +18,9 @@ featuredImage:
   caption: Capa da postagem
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/Conheça o Zeedz_ um jogo que consiste na redução mundial de
+    poluentes-22caba6d.jpg
   altText: Post image
 bottomSections: []
 metaDescription: null

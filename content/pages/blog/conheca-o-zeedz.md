@@ -1,6 +1,6 @@
 ---
 layout: PostLayout
-metaTitle: null
+metaTitle: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes'
 addTitleSuffix: true
 metaTags: []
 title: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes'

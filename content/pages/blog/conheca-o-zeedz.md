@@ -2,7 +2,10 @@
 layout: PostLayout
 metaTitle: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes'
 addTitleSuffix: true
-metaTags: []
+metaTags:
+  - type: MetaTag
+    property: 'og:title'
+    content: ''
 title: 'Conheça o Zeedz: um jogo que consiste na redução mundial de poluentes'
 colors: colors-d
 date: '2022-04-01'

@@ -39,7 +39,7 @@ Com um conceito alinhado, uma wiki (enciclopédia) para que sejam expostos algun
 
 Na página de [marketplace](https://play.zeedz.io/marketplace) você pode ver quantos dólares já circularam em dólares em $FLOW ou em $USDC. o total de bloqueio da emissão de CO2 (gás carbônico), total de vendas e o pico de preço de venda de algum objeto que compõe o ecossistema.
 
-A [comunidade no Discord](https://discord.gg/zeedz) possui cerca de 7 de mil membros, na conta do Instagram são 4 mil seguidores acompanhando as atualizações do e o Twitter é sempre atualizado pela equipe com conteúdos enxutos e acessíveis para o público. Se você não for bilíngue, entre em contato comigo mandando uma mensagem pelo Discord que eu posso te dar suporte para que compreenda melhor o conteúdo do jogo.
+A [comunidade no Discord](https://discord.gg/zeedz) possui cerca de 7 de mil membros, na conta do Instagram são 4 mil seguidores acompanhando as atualizações do e o Twitter é sempre atualizado pela equipe com conteúdos enxutos e acessíveis para o público. Se você não for bilíngue, entre em contato comigo mandando uma mensagem pelo Discord que eu posso te dar suporte para que você compreenda melhor o conteúdo do jogo.
 
 Basta me adicionar pelo usuário renaodigital#2236
 

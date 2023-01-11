@@ -70,29 +70,29 @@ author: content/data/team/hilary-ouse.json
 
 O jogo está em desenvolvimento há mais de 3 anos e combina uma excelente experiência de jogo tradicional com recursos interessantes possibilitados pela integração com o [blockchain Flow](https://www.onflow.org/). Trajes, itens, monstros e muitos outros objetos especiais do jogo são todos NFTs pertencentes e controlados pelos usuários.
 
-### **Reserve a data**
+### **Lançamento**
 
 Junte-se à nossa [campanha Kickstarter](https://www.kickstarter.com/projects/cinetek/chainmonsters) em 20 de outubro, às 10h PST / 19h CET, para ter a chance de reservar NFTs super raros e itens exclusivos, incluindo oportunidades de pegar a primeira edição cunhada de cada Chainmon (monstro) no jogo (por exemplo, número de série #1).
 
-‍ Observação *: a página da campanha estará no ar a partir da data de lançamento, junte-se ao nosso Discord no final deste blog para se manter atualizado.*
+‍Observação *: a página da campanha estará no ar a partir da data de lançamento, junte-se ao Discord que se encontra no final deste artigo para se manter atualizado.*
 
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de\_5f87dbe7fa21cbdcbd5ca760\_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914547331f76de\_5f87dbe7fa21cbdcbd5ca760\_j0Hx0IFmCDFRozgGRA0vT6YKYo2IPSxOLPGIQRWhQcZ6-skht9Sly_SjUBesxbIsNxuoZaYj55FNhZHOo465-uwsR-SSkj4djkSV0UHatoGzwjXbACNPFShjjYk-5r3Y6562g7T8.png)
 
-### **Por que Fluir?**
+### **Por quê a Flow?**
 
-Flow é um novo blockchain construído para a próxima geração de aplicativos, jogos e ativos digitais que os alimentam. Os principais princípios de design que orientam o Flow são princípios centrados no consumidor e amigáveis ao desenvolvedor que tornaram essa rede blockchain altamente escalável o ecossistema ideal para grandes marcas globais como NBA, UFC, Ubisoft, Dr. Seuss e Warner Music Group.
+Flow é uma nova blockchain construído para a próxima geração de aplicativos, jogos e ativos digitais que os alimentam. Os principais princípios de design que orientam o Flow são princípios centrados no consumidor e amigáveis ao desenvolvedor que tornaram essa rede blockchain altamente escalável o ecossistema ideal para grandes marcas globais como NBA, UFC, Ubisoft, Dr. Seuss e Warner Music Group.
 
 Estamos trabalhando com o ecossistema Flow como parte do programa Flow Alpha há quase um ano. O design centrado no consumidor oferecido pelo Flow nos permite criar experiências de integração perfeitas que permitirão aos Chainmonsters penetrar no mercado de massa com mais facilidade, em comparação com outros jogos criptográficos lançados até o momento.
 
 Quando um usuário inicia nosso jogo, ele pode começar a jogar imediatamente, sem precisar de nenhum conhecimento sobre blockchain. Eles têm uma conta Flow anônima criada em segundo plano e, uma vez que decidam continuar jogando e assumir total responsabilidade por seus ativos digitais ganhos, podem reivindicar o controle total de sua conta sem problemas. Isso é feito facilmente, sem excesso de engenharia, graças ao suporte multisig que o Flow oferece por padrão. Sempre foi importante para nós encontrar o equilíbrio certo entre facilidade de acesso, jogabilidade altamente envolvente e propriedade de ativos digitais descentralizada.
 
-### **Quão sérios nós somos?**
+### **Qual é a proposta da equipe?**
 
-Nossa equipe passou mais de 3 anos construindo e projetando cada detalhe deste jogo. Até o momento, já despachamos cerca de 70% de nosso roteiro completo de mecânicas de jogo, criamos parcerias de longo prazo e projetamos nossa visão de como uma verdadeira economia voltada para o jogador deve ser em grande escala. Não somos o típico projeto Kickstarter que está sendo lançado agora, em vez disso, estamos prontos para lançar a versão Alpha sem demora. Chainmonsters será um dos primeiros jogos multiplayer massivos multiplataforma habilitados para blockchain a alcançar a adoção mainstream.
+A equipe passou mais de 3 anos construindo e projetando cada detalhe deste jogo. Até o momento da escrita desse artigo, já foi desenvolvido cerca de 70% de  roadmap, já estando prontas as mecânicas de jogo, criamos parcerias de longo prazo e projetamos nossa visão de como uma verdadeira economia voltada para o jogador deve ser em grande escala. O projeto não é como os tipicamente desenvolvidos e o Kickstarter já foi lançado. Chainmonsters será um dos primeiros jogos MMORPG (multiplayer massivos multiplataforma) habilitados para blockchain a alcançar a adoção dos gamers da Web2.
 
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e8df9145325f1f76d1\_5f87dbc0f52d302541d824a2\_P6Hu-Ol-\_RZgQIFOKDrn_aZ4m3ooKJX0JbfbmIjvkHS13BzLd-uSiHjVj1HKuQrMXTfYeccyDJcG5gyajLpp72t7se0EW4p\_7UryrdMpJucRV3JC_Oa1-qSn9WF0ey4yOfse064Z.png](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e8df9145325f1f76d1\_5f87dbc0f52d302541d824a2\_P6Hu-Ol-\_RZgQIFOKDrn_aZ4m3ooKJX0JbfbmIjvkHS13BzLd-uSiHjVj1HKuQrMXTfYeccyDJcG5gyajLpp72t7se0EW4p\_7UryrdMpJucRV3JC_Oa1-qSn9WF0ey4yOfse064Z.png)
 
-Exclusivamente para nossos patrocinadores do Kickstarter, criamos uma impressionante demonstração multijogador mostrando nossa tecnologia e mecânica de jogo antes do lançamento do Alpha!
+Exclusivamente para nossos patrocinadores do Kickstarter, criamos uma impressionante demonstração com modo multiplayer mostrando nossa tecnologia e mecânica de jogo antes do lançamento do jogo na fase Alpha!
 
 *   [Vapor](https://store.steampowered.com/app/815490/Chainmonsters/)
 *   [iOS](https://testflight.apple.com/join/rFFcWYmX)
@@ -116,39 +116,39 @@ Roupas, cosméticos e até mesmo itens são tokenizados - então pegar, por exem
 
 Dessa forma, a escassez natural criada pela jogabilidade direcionará o tráfego orgânico para o mercado do jogo, onde você poderá negociar com outros jogadores e obter Chainmons, cosméticos e recursos que podem não ser mais obtidos no jogo.
 
-### **‍‍O que vem a seguir?‍**
+### **‍‍E a pré-venda?**
 
-Estamos lançando nosso [Kickstarter/Pré](https://www.kickstarter.com/projects/cinetek/chainmonsters) -venda na terça-feira, 20 de outubro, às 10h PST / 19h CET, onde você poderá obter alguns NFTs super raros. Após a pré-venda, cunharemos todos os NFTs do Kickstarter para os patrocinadores. Esses NFTs serão negociáveis no [mercado VIV3](https://viv3.com/) , permitindo liquidez imediata e negociação P2P.‍
+O jogo foi lançado no [Kickstarter/Pré](https://www.kickstarter.com/projects/cinetek/chainmonsters) -venda na terça-feira, 20 de outubro, às 10h PST / 19h CET, onde você poderá obter alguns NFTs super raros. Após a pré-venda, cunharemos todos os NFTs do Kickstarter para os patrocinadores. Esses NFTs serão negociáveis no [mercado VIV3](https://viv3.com/) , permitindo liquidez imediata e negociação P2P.‍
 
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914582341f76dc\_5f87dbfc96a9c7ac40bbb643\_hFDL1m2mN1\_0vPeMNMjjeeDNbTTRv_ytHkwJvcBaA1fRm2jgxOJGwFVz6aoa-P4qOVgDsKrpnGHhEhfbCm5RZSnoEbMIKzuIKwMWqv9R1rAub0LC0hBMhgIAr-Z6tskRKQf3\_01V.png](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4e9df914582341f76dc\_5f87dbfc96a9c7ac40bbb643\_hFDL1m2mN1\_0vPeMNMjjeeDNbTTRv_ytHkwJvcBaA1fRm2jgxOJGwFVz6aoa-P4qOVgDsKrpnGHhEhfbCm5RZSnoEbMIKzuIKwMWqv9R1rAub0LC0hBMhgIAr-Z6tskRKQf3\_01V.png)
 
-Nosso Kickstarter/Pré-venda apresenta NFTs exclusivos como recompensa pelo seu apoio.
+Nosso Kickstarter/Pré-venda apresenta NFTs exclusivos que recompensava pelo apoio inicial.
 
 A ordem de cunhagem dos NFTs começará em ordem decrescente do valor da camada apoiada. Os apoiadores de níveis mais altos terão a chance de receber NFTs de baixo número de série.
 
 Abaixo, você encontrará níveis em destaque de nossa campanha Kickstarter oferecendo NFTs exclusivos como parte do pacote - consulte a [página completa do Kickstarter](https://www.kickstarter.com/projects/cinetek/chainmonsters) para tudo o mais incluído.
 
-**Alfa Digital - 20 EUR**
+**Alfa Digital - Doação de 20 EUR**
 
 *   Acesso Alfa
 *   papel de parede digital
 *   Seu nome nos créditos do jogo
 
-**Fundador - 350 EUR**
+**Fundador - Doação de 350 EUR**
 
 *   Crystal starter Chainmon (fornecimento total máximo de 600)
 *   Estátua do Clube do Fundador
 
 *Os Crystal* Chainmons estão profundamente conectados à história do jogo, mas não têm nenhuma vantagem de quebrar o jogo. Em vez disso, eles são colecionáveis super raros - apenas 600 existirão! - e tem um efeito visual único que os diferencia de todos os outros!
 
-**Agente Especial - 1500 EUR**
+**Agente Especial - Doação de 1500 EUR**
 
 *   Assuma o controle de um NPC no jogo (fornecimento total máximo de 30)
 *   Todos os 3 Chainmons iniciais de cristal
 
 O proprietário do NFT pode personalizar tanto a aparência quanto o esquadrão de um NPC inimigo a qualquer momento. Esses "Agentes Especiais" estão estrategicamente colocados no mundo e pretendem ser um desafio especial para os jogadores. Manter a propriedade deste NFT concede a você acesso a uma roupa exclusiva que você pode exibir para outros jogadores.
 
-**Supervisor - 2500 EUR**
+**Supervisor - Doação de 2500 EUR**
 
 *   Torne-se um líder de QG (fornecimento total máximo de 8)
 *   Agente especial incluído
@@ -157,7 +157,7 @@ Você pode literalmente possuir um dos únicos 8 HQs em todo o jogo e se tornar 
 
 Os proprietários anteriores desta HQ estão listados em suas paredes para serem lembrados para sempre. Quer ser o proprietário fundador de uma HQ? Não perca esta chance única na vida!
 
-**Designer Chainmon - 5000 EUR**
+**Designer Chainmon - Doação de 5000 EUR**
 
 *   Ajude-nos a criar um novo Chainmon (esta recompensa só pode ser adquirida um total de 5 vezes!)
 *   Receba o primeiro NFT de seu tipo, incluindo todas as variantes em sua conta (primeira edição e serial nº 1!)
@@ -178,4 +178,4 @@ Certifique-se de entrar em nosso [servidor Discord](https://discord.gg/rWnB4fM)
 
 Inscrição no boletim informativo: <http://eepurl.com/gN8sAP>
 
-(isso também pode ser feito em [bsidegames.com](http://bsidegames.com/) e [playchainmonsters.com](http://playchainmonsters.com/) )
+(isso também pode ser feito em [bsidegames.com](http://bsidegames.com/) e [playchainmonsters.com](http://playchainmonsters.com/))
